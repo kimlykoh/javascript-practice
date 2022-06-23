@@ -1,7 +1,19 @@
 body {
   background-color: seagreen;
+  text-align: center;
 }
 
 h1 {
   color: burlywood;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 900;
+}
+
+p {
+  color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  width: 20%;
 }
