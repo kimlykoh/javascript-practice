@@ -1,6 +1,7 @@
 body {
   background-color: seagreen;
   text-align: center;
+  color: bisque;
 }
 
 h1 {
@@ -9,11 +10,32 @@ h1 {
   font-weight: 900;
 }
 
-p {
-  color: bisque;
+h3 {
   font-family: "Courier New", Courier, monospace;
 }
 
+a {
+  text-decoration: none;
+  color: bisque;
+}
+
+a:hover {
+  color: burlywood;
+}
+
 img {
-  width: 20%;
+  width: 50%;
+}
+
+.year {
+  font-weight: 600;
+}
+
+.learningImage {
+  width: 80%;
+}
+
+p {
+  width: 80%;
+  margin: 2% auto;
 }
